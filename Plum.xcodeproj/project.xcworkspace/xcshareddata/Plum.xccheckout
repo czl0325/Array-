@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57DA1F0B-D4CA-4622-BAF9-47BC70DD7DA9</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>81e04093-58c2-464c-b59d-4beb676f1db4++4931</key>
+		<string>https://10.10.58.65/svn/zhaoliang.chen/Bamboo/Bamboo/framework</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>81e04093-58c2-464c-b59d-4beb676f1db4++4931</key>
+		<string>framework/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>81e04093-58c2-464c-b59d-4beb676f1db4++4931</key>
+		<string>https://10.10.58.65/svn/zhaoliang.chen</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://10.10.58.65/svn/zhaoliang.chen/Bamboo/Bamboo/framework</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>81e04093-58c2-464c-b59d-4beb676f1db4++4931</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>81e04093-58c2-464c-b59d-4beb676f1db4++4931</string>
+			<key>IDESourceControlWCCName</key>
+			<string>framework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
